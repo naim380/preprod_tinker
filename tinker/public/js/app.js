@@ -38498,7 +38498,9 @@ var render = function() {
       attrs: { src: "/assets/logo/logo.png", alt: "Denim Jeans" }
     }),
     _vm._v(" "),
-    _c("h1", { staticClass: "text-sm" }, [_vm._v(_vm._s(_vm.title))]),
+    _c("h1", { staticStyle: { "font-size": "2vw" } }, [
+      _vm._v(_vm._s(_vm.title))
+    ]),
     _vm._v(" "),
     _c("p", { staticClass: "price" }, [_vm._v(_vm._s(_vm.price))]),
     _vm._v(" "),

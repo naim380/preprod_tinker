@@ -2,7 +2,7 @@
 
     <div class="card">
         <img src="/assets/logo/logo.png" alt="Denim Jeans" style="width:100%">
-        <h1 class="text-sm">{{ title }}</h1>
+        <h1 style="font-size:2vw;">{{ title }}</h1>
         <p class="price">{{ price }}</p>
         <p>Some text about the jeans..</p>
         <p>
@@ -35,6 +35,7 @@ export default {
     height: 400px;
     margin: auto;
     text-align: center;
+
     font-family: arial;
 
 }
