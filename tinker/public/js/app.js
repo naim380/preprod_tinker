@@ -1858,7 +1858,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   components: {
@@ -1871,14 +1870,13 @@ __webpack_require__.r(__webpack_exports__);
     return {
       products: [{
         "id": 6,
-        "title": "Knit Sweater",
+        "title": "Tournevis",
         "description": "Soft, knit sweater with a slightly wider neckline. Long sleeves and ribbing at neckline, cuffs, and hem.",
         "price": "4.99",
         "specific_price": "35,00",
         "nb_photo": 2,
-        "size": "M",
         "condition": "New",
-        "brand": "H&M",
+        "brand": "Bosh",
         "sold": false,
         "fav": 12,
         "viewed": 23,
@@ -1890,14 +1888,13 @@ __webpack_require__.r(__webpack_exports__);
         "category_name": "Clothing"
       }, {
         "id": 7,
-        "title": " Air Jordan 6 Retro",
-        "description": "Basketball shoes Air Jordan 6 Retro",
+        "title": " Pelle",
+        "description": "lorem ipsum dolor sit amet",
         "price": "88.30",
         "specific_price": "185,43",
         "nb_photo": 3,
-        "size": "40",
         "condition": "New",
-        "brand": "Jordan",
+        "brand": "Facom",
         "sold": false,
         "fav": 78,
         "viewed": 75,
@@ -1909,12 +1906,12 @@ __webpack_require__.r(__webpack_exports__);
         "category_name": "Shoes"
       }, {
         "id": 4,
-        "title": "Chanel handbag",
+        "title": "Scie à ruban",
         "description": "lorem ipsum dolor sit amet",
         "price": "138.00",
         "nb_photo": 2,
         "condition": "New with tags",
-        "brand": "Chanel",
+        "brand": "Stainless",
         "sold": false,
         "fav": 15,
         "viewed": 123,
@@ -1926,13 +1923,12 @@ __webpack_require__.r(__webpack_exports__);
         "category_name": "Bags"
       }, {
         "id": 5,
-        "title": "Zara women jeans",
+        "title": "Marteau",
         "description": " Lace crop top, Zara",
         "price": "29.00",
         "nb_photo": 1,
-        "size": "XS / 34 / 6",
         "condition": "New",
-        "brand": "Zara",
+        "brand": "Bosh",
         "sold": false,
         "fav": 2,
         "viewed": 113,
@@ -1944,13 +1940,13 @@ __webpack_require__.r(__webpack_exports__);
         "category_name": "Clothing"
       }, {
         "id": 1,
-        "title": "Sweatshirts Tommy H",
+        "title": "Clé à cliquet",
         "description": "lorem ipsum dolor sit amet",
         "price": "12.10",
         "nb_photo": 1,
         "size": "M",
         "condition": "Very good",
-        "brand": "Tommy",
+        "brand": "Facom",
         "sold": false,
         "fav": 15,
         "viewed": 123,
@@ -1966,9 +1962,8 @@ __webpack_require__.r(__webpack_exports__);
         "description": " Longline Striped T-Shirt With Curved Hem",
         "price": "16.00",
         "nb_photo": 1,
-        "size": "M",
         "condition": "Very good",
-        "brand": "ASOS",
+        "brand": "Bosh",
         "sold": true,
         "fav": 8,
         "viewed": 233,
@@ -1980,14 +1975,14 @@ __webpack_require__.r(__webpack_exports__);
         "category_name": "Tops & t-shirts"
       }, {
         "id": 2,
-        "title": "Little black top",
+        "title": "Douille",
         "description": " Lace crop top, Zara",
         "price": "18.00",
         "nb_photo": 1,
         "specific_price": "35,00",
         "size": "L / 40 / 12",
         "condition": "New with tags",
-        "brand": "Zara",
+        "brand": "Facom",
         "sold": false,
         "fav": 32,
         "viewed": 153,
@@ -1999,13 +1994,12 @@ __webpack_require__.r(__webpack_exports__);
         "category_name": "Clothing"
       }, {
         "id": 3,
-        "title": "Louis Vuitton High Heel",
+        "title": "Clé dynamométrique",
         "description": " High heel Cage Effect for Women Sandals Worn only once, very good condition Made in Italy",
         "price": "120.00",
         "nb_photo": 2,
-        "size": "38",
         "condition": "Very good",
-        "brand": "Louis Vuitton",
+        "brand": "Facom",
         "sold": true,
         "fav": 8,
         "viewed": 233,
@@ -2089,6 +2083,59 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/FormTinker.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/FormTinker.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  name: "FormTinker"
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/HeaderTinker.vue?vue&type=script&lang=js&":
 /*!*********************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/HeaderTinker.vue?vue&type=script&lang=js& ***!
@@ -2142,6 +2189,7 @@ window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm.js"
 Vue.component('header-tinker', __webpack_require__(/*! ./components/subComponents/HeaderTinker.vue */ "./resources/js/components/subComponents/HeaderTinker.vue").default);
 Vue.component('footer-tinker', __webpack_require__(/*! ./components/subComponents/FooterTinker.vue */ "./resources/js/components/subComponents/FooterTinker.vue").default);
 Vue.component('home-tinker', __webpack_require__(/*! ./components/HomeComponent.vue */ "./resources/js/components/HomeComponent.vue").default);
+Vue.component('form-tinker', __webpack_require__(/*! ./components/subComponents/FormTinker.vue */ "./resources/js/components/subComponents/FormTinker.vue").default);
 /**
  * Next, we will create a fresh Vue application instance and attach it to
  * the page. Then, you may begin adding components to this application
@@ -6704,7 +6752,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\nbody {\n    margin: 0;\n    font-family: Arial, Helvetica, sans-serif;\n}\n.navbar {\n    overflow: hidden;\n    background-color: #333;\n    position: fixed;\n    bottom: 0;\n    width: 100%;\n}\n.navbar a {\n    float: left;\n    display: block;\n    color: #f2f2f2;\n    text-align: center;\n    padding: 14px 16px;\n    text-decoration: none;\n    font-size: 17px;\n}\n.navbar a:hover {\n    background: #f1f1f1;\n    color: black;\n}\n.navbar a.active {\n    background-color: #04AA6D;\n    color: white;\n}\n.main {\n    padding: 16px;\n    margin-bottom: 30px;\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\nbody {\n    margin: 0;\n    font-family: Arial, Helvetica, sans-serif;\n}\n.navbar {\n    overflow: hidden;\n    background-color: #1b4b72;\n    position: fixed;\n    bottom: 0;\n    width: 100%;\n}\n.navbar a {\n    float: left;\n    display: block;\n    color: #f2f2f2;\n    text-align: center;\n    padding: 14px 16px;\n    text-decoration: none;\n    font-size: 17px;\n}\n.navbar a:hover {\n    background: #f1f1f1;\n    color: black;\n}\n.navbar a.active {\n    background-color: #04AA6D;\n    color: white;\n}\n.main {\n    padding: 16px;\n    margin-bottom: 30px;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -38221,6 +38269,45 @@ component.options.__file = "resources/js/components/subComponents/FooterTinker.v
 
 /***/ }),
 
+/***/ "./resources/js/components/subComponents/FormTinker.vue":
+/*!**************************************************************!*\
+  !*** ./resources/js/components/subComponents/FormTinker.vue ***!
+  \**************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _FormTinker_vue_vue_type_template_id_0261aeb2_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true& */ "./resources/js/components/subComponents/FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true&");
+/* harmony import */ var _FormTinker_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./FormTinker.vue?vue&type=script&lang=js& */ "./resources/js/components/subComponents/FormTinker.vue?vue&type=script&lang=js&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+;
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+  _FormTinker_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _FormTinker_vue_vue_type_template_id_0261aeb2_scoped_true___WEBPACK_IMPORTED_MODULE_0__.render,
+  _FormTinker_vue_vue_type_template_id_0261aeb2_scoped_true___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  "0261aeb2",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/subComponents/FormTinker.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
 /***/ "./resources/js/components/subComponents/HeaderTinker.vue":
 /*!****************************************************************!*\
   !*** ./resources/js/components/subComponents/HeaderTinker.vue ***!
@@ -38305,6 +38392,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_FooterTinker_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./FooterTinker.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/FooterTinker.vue?vue&type=script&lang=js&");
  /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_FooterTinker_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
+/***/ "./resources/js/components/subComponents/FormTinker.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/components/subComponents/FormTinker.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_FormTinker_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./FormTinker.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/FormTinker.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_FormTinker_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
 
 /***/ }),
 
@@ -38414,6 +38517,23 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/subComponents/FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true&":
+/*!*********************************************************************************************************!*\
+  !*** ./resources/js/components/subComponents/FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true& ***!
+  \*********************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_FormTinker_vue_vue_type_template_id_0261aeb2_scoped_true___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_FormTinker_vue_vue_type_template_id_0261aeb2_scoped_true___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_FormTinker_vue_vue_type_template_id_0261aeb2_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true&");
+
+
+/***/ }),
+
 /***/ "./resources/js/components/subComponents/HeaderTinker.vue?vue&type=template&id=8246b7a0&":
 /*!***********************************************************************************************!*\
   !*** ./resources/js/components/subComponents/HeaderTinker.vue?vue&type=template&id=8246b7a0& ***!
@@ -38504,7 +38624,11 @@ var render = function() {
     _vm._v(" "),
     _c("p", { staticClass: "price" }, [_vm._v(_vm._s(_vm.price))]),
     _vm._v(" "),
-    _c("p", [_vm._v("Some text about the jeans..")]),
+    _c("p", [
+      _vm._v(
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolor explicabo hic. At dignissimos eius, explicabo facere fugiat, harum illum incidunt ipsam maiores modi nobis officiis pariatur quae tempora temporibus!"
+      )
+    ]),
     _vm._v(" "),
     _vm._m(0)
   ])
@@ -38554,6 +38678,138 @@ var staticRenderFns = [
       _c("a", { attrs: { href: "#news" } }, [_vm._v("News")]),
       _vm._v(" "),
       _c("a", { attrs: { href: "#contact" } }, [_vm._v("Contact")])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true&":
+/*!************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/subComponents/FormTinker.vue?vue&type=template&id=0261aeb2&scoped=true& ***!
+  \************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "input-group mb-3" }, [
+        _c(
+          "span",
+          { staticClass: "input-group-text", attrs: { id: "basic-addon1" } },
+          [_vm._v("@")]
+        ),
+        _vm._v(" "),
+        _c("input", {
+          staticClass: "form-control",
+          attrs: {
+            type: "text",
+            placeholder: "Username",
+            "aria-label": "Username",
+            "aria-describedby": "basic-addon1"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "input-group mb-3" }, [
+        _c("input", {
+          staticClass: "form-control",
+          attrs: {
+            type: "text",
+            placeholder: "Recipient's username",
+            "aria-label": "Recipient's username",
+            "aria-describedby": "basic-addon2"
+          }
+        }),
+        _vm._v(" "),
+        _c(
+          "span",
+          { staticClass: "input-group-text", attrs: { id: "basic-addon2" } },
+          [_vm._v("@example.com")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("label", { staticClass: "form-label", attrs: { for: "basic-url" } }, [
+        _vm._v("Your vanity URL")
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "input-group mb-3" }, [
+        _c(
+          "span",
+          { staticClass: "input-group-text", attrs: { id: "basic-addon3" } },
+          [_vm._v("https://example.com/users/")]
+        ),
+        _vm._v(" "),
+        _c("input", {
+          staticClass: "form-control",
+          attrs: {
+            type: "text",
+            id: "basic-url",
+            "aria-describedby": "basic-addon3"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "input-group mb-3" }, [
+        _c("span", { staticClass: "input-group-text" }, [_vm._v("$")]),
+        _vm._v(" "),
+        _c("input", {
+          staticClass: "form-control",
+          attrs: {
+            type: "text",
+            "aria-label": "Amount (to the nearest dollar)"
+          }
+        }),
+        _vm._v(" "),
+        _c("span", { staticClass: "input-group-text" }, [_vm._v(".00")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "input-group mb-3" }, [
+        _c("input", {
+          staticClass: "form-control",
+          attrs: {
+            type: "text",
+            placeholder: "Username",
+            "aria-label": "Username"
+          }
+        }),
+        _vm._v(" "),
+        _c("span", { staticClass: "input-group-text" }, [_vm._v("@")]),
+        _vm._v(" "),
+        _c("input", {
+          staticClass: "form-control",
+          attrs: { type: "text", placeholder: "Server", "aria-label": "Server" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "input-group" }, [
+        _c("span", { staticClass: "input-group-text" }, [
+          _vm._v("With textarea")
+        ]),
+        _vm._v(" "),
+        _c("textarea", {
+          staticClass: "form-control",
+          attrs: { "aria-label": "With textarea" }
+        })
+      ])
     ])
   }
 ]

@@ -10,7 +10,6 @@
         ></ArticlesTinker>
     </div>
 </template>
-
 <script>
     import ArticlesTinker from "./subComponents/ArticlesTinker";
     export default {
@@ -23,14 +22,13 @@
                 products: [
                     {
                         "id":6,
-                        "title":"Knit Sweater",
+                        "title":"Tournevis",
                         "description":"Soft, knit sweater with a slightly wider neckline. Long sleeves and ribbing at neckline, cuffs, and hem.",
                         "price":"4.99",
                         "specific_price":"35,00",
                         "nb_photo":2,
-                        "size":"M",
                         "condition":"New",
-                        "brand":"H&M",
+                        "brand":"Bosh",
                         "sold":false,
                         "fav":12,
                         "viewed":23,
@@ -43,14 +41,13 @@
                     },
                     {
                         "id":7,
-                        "title":" Air Jordan 6 Retro",
-                        "description":"Basketball shoes Air Jordan 6 Retro",
+                        "title":" Pelle",
+                        "description":"lorem ipsum dolor sit amet",
                         "price":"88.30",
                         "specific_price":"185,43",
                         "nb_photo":3,
-                        "size":"40",
                         "condition":"New",
-                        "brand":"Jordan",
+                        "brand":"Facom",
                         "sold":false,
                         "fav":78,
                         "viewed":75,
@@ -63,12 +60,12 @@
                     },
                     {
                         "id":4,
-                        "title":"Chanel handbag",
+                        "title":"Scie à ruban",
                         "description":"lorem ipsum dolor sit amet",
                         "price":"138.00",
                         "nb_photo":2,
                         "condition":"New with tags",
-                        "brand":"Chanel",
+                        "brand":"Stainless",
                         "sold":false,
                         "fav":15,
                         "viewed":123,
@@ -81,13 +78,12 @@
                     },
                     {
                         "id":5,
-                        "title":"Zara women jeans",
+                        "title":"Marteau",
                         "description":" Lace crop top, Zara",
                         "price":"29.00",
                         "nb_photo":1,
-                        "size":"XS / 34 / 6",
                         "condition":"New",
-                        "brand":"Zara",
+                        "brand":"Bosh",
                         "sold":false,
                         "fav":2,
                         "viewed":113,
@@ -100,13 +96,13 @@
                     },
                     {
                         "id":1,
-                        "title":"Sweatshirts Tommy H",
+                        "title":"Clé à cliquet",
                         "description":"lorem ipsum dolor sit amet",
                         "price":"12.10",
                         "nb_photo":1,
                         "size":"M",
                         "condition":"Very good",
-                        "brand":"Tommy",
+                        "brand":"Facom",
                         "sold":false,
                         "fav":15,
                         "viewed":123,
@@ -124,9 +120,8 @@
                         "description":" Longline Striped T-Shirt With Curved Hem",
                         "price":"16.00",
                         "nb_photo":1,
-                        "size":"M",
                         "condition":"Very good",
-                        "brand":"ASOS",
+                        "brand":"Bosh",
                         "sold":true,
                         "fav":8,
                         "viewed":233,
@@ -140,14 +135,14 @@
 
                     {
                         "id":2,
-                        "title":"Little black top",
+                        "title":"Douille",
                         "description":" Lace crop top, Zara",
                         "price":"18.00",
                         "nb_photo":1,
                         "specific_price":"35,00",
                         "size":"L / 40 / 12",
                         "condition":"New with tags",
-                        "brand":"Zara",
+                        "brand":"Facom",
                         "sold":false,
                         "fav":32,
                         "viewed":153,
@@ -161,13 +156,12 @@
 
                     {
                         "id":3,
-                        "title":"Louis Vuitton High Heel",
+                        "title":"Clé dynamométrique",
                         "description":" High heel Cage Effect for Women Sandals Worn only once, very good condition Made in Italy",
                         "price":"120.00",
                         "nb_photo":2,
-                        "size":"38",
                         "condition":"Very good",
-                        "brand":"Louis Vuitton",
+                        "brand":"Facom",
                         "sold":true,
                         "fav":8,
                         "viewed":233,

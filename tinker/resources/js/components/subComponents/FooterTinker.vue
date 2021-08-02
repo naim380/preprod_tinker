@@ -22,7 +22,7 @@ body {
 
 .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: #1b4b72;
     position: fixed;
     bottom: 0;
     width: 100%;

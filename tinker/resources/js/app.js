@@ -23,6 +23,7 @@ window.Vue = require('vue').default;
 Vue.component('header-tinker', require('./components/subComponents/HeaderTinker.vue').default);
 Vue.component('footer-tinker', require('./components/subComponents/FooterTinker.vue').default);
 Vue.component('home-tinker', require('./components/HomeComponent.vue').default);
+Vue.component('form-tinker', require('./components/subComponents/FormTinker.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

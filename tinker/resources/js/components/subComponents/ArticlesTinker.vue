@@ -4,7 +4,7 @@
         <img src="/assets/logo/logo.png" alt="Denim Jeans" style="width:100%">
         <h1 style="font-size:2vw;">{{ title }}</h1>
         <p class="price">{{ price }}</p>
-        <p>Some text about the jeans..</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolor explicabo hic. At dignissimos eius, explicabo facere fugiat, harum illum incidunt ipsam maiores modi nobis officiis pariatur quae tempora temporibus!</p>
         <p>
             <button>Add to Cart</button>
         </p>
