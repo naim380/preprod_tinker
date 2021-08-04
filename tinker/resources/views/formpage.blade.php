@@ -12,6 +12,10 @@
 </head>
 <body class="antialiased">
 <div id="app">
+    <div>
+        <register-tinker></register-tinker>
+    </div>
+
 
 
 </div>
@@ -20,8 +24,8 @@
 </body>
 </html>
 <script>
-    import FormTinker from "../js/components/subComponents/FormTinker";
+    import Register from "../js/components/subComponents/RegisterTinker";
     export default {
-        components: {FormTinker}
+        components: {Register}
     }
 </script>

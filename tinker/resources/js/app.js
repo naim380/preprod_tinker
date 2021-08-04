@@ -22,8 +22,9 @@ window.Vue = require('vue').default;
 //Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('header-tinker', require('./components/subComponents/HeaderTinker.vue').default);
 Vue.component('footer-tinker', require('./components/subComponents/FooterTinker.vue').default);
+Vue.component('login-tinker', require('./components/subComponents/LoginTinker.vue').default);
+Vue.component('register-tinker', require('./components/subComponents/RegisterTinker.vue').default);
 Vue.component('home-tinker', require('./components/HomeComponent.vue').default);
-Vue.component('form-tinker', require('./components/subComponents/FormTinker.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
